@@ -12,7 +12,7 @@ only:
   - test-ci
   
 script:
-  - docker pull rxsantos/bdd-text
+  - docker pull rxsantos/bdd-test
   - docker run -v $PWD/:/app/report/ rxsantos/bdd-test
 
 # after_script:
