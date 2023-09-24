@@ -4,7 +4,6 @@
   "version": "1.0.0",
   "description": "Simple Cypress project",
   "main": "index.js",
-  "dependencies": {},
   "devDependencies": {
     "cucumber": "^7.0.0-rc.0",
     "cucumber-html-reporter": "^5.4.0",
