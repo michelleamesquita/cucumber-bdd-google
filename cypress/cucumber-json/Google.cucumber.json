@@ -28,7 +28,7 @@
             "name": "I open Google page",
             "result": {
               "status": "passed",
-              "duration": 2148000000
+              "duration": 1720000000
             }
           },
           {
@@ -38,7 +38,7 @@
             "name": "I see \"Google\" in the title",
             "result": {
               "status": "passed",
-              "duration": 20000000
+              "duration": 19000000
             }
           }
         ]
