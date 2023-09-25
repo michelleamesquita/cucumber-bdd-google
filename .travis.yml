@@ -15,8 +15,8 @@ script:
   - docker pull rxsantos/bdd-test:latest
   - docker run -v $PWD/:/app/report/ rxsantos/bdd-test:latest
 
-# after_script:
-#   - bash ./telegram_notification.sh
+after_script:
+  - bash ./telegram_notification.sh
   
 #after_success:
 
