@@ -5,6 +5,7 @@ Start local:
 - npm run test:search
 - npm run cucumber:report
 
+
 Start docker:
 - docker build image-name .
 - docker run image-name
